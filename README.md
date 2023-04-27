@@ -1,5 +1,7 @@
 ### Hi, my name is Christian Asch!
-### I'm a BSc in Computer Science from the University of Costa Rica
+### I'm a BSc in Computer Science from the University of Costa Rica\
+
+## I'm currently a Master's student and I'm a researcher at the CNCA-CeNAT
 
 ## Interests relating to Computer Science and related fields
 
