@@ -3,7 +3,7 @@
 
 ## I'm currently a Master's student and I'm a researcher at the CNCA-CeNAT
 
-My research topic is in in-situ analysis and visualization applied to seismological simulations
+My research topic is in performance visualization in task-based parallel programming libraries
 
 ## Interests relating to Computer Science and related fields
 
@@ -12,7 +12,6 @@ My research topic is in in-situ analysis and visualization applied to seismologi
 - Operative Systems
 - Compilers
 - Emulators
-- Full Stack Web Development
 
 ## Other interests
 
