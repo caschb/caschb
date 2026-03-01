@@ -1,7 +1,8 @@
+#+TITLE: About me
+#+AUTHOR: Christian Asch
+#+OPTIONS: toc:nil
 
-
-# Who am I?
+* Who am I?
 
 My name is Christian, I'm a computer scientist currently working on HPC.
 I'm writing my Master's thesis on performance visualization for Charm++.
-
